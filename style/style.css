@@ -7,7 +7,5 @@ h1 { margin: 0; padding: 0; display: none; }
 #container ul { margin: 0; padding: 0; list-style: none; position: absolute; top: 280px; left: 165px; }
 #container li { position: absolute; width: 54px; height: 54px; }
 #container a { width: 100%; height: 100%;  text-indent: -99999px; position: absolute; }
-.linkedin { left: 65px; }
-.tumblr { left: 130px; }
 
 #footer { text-align: center; color: #555; }
